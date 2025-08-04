@@ -1,0 +1,4 @@
+notebook==7.4.4
+openai==1.98.0
+python-dotenv==1.1.1
+colorama==0.4.6
